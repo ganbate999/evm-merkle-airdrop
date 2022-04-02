@@ -2,8 +2,7 @@
 Merkle Airdrop smart contract for Fungible token
 
 ## About
-* It's a TEA token airdrop contract based on merkle tree algorithm.
-* For more, refer [Wiki](./docs/wiki).
+* It's a ERC20 token airdrop contract based on merkle tree algorithm.
 
 ## Installation
 ```shell
